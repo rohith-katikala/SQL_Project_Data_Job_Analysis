@@ -1,2 +1,0 @@
--- delete this later 
--- This query selects all columns from the 'employees' table
