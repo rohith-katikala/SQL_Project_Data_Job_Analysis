@@ -22,7 +22,34 @@ ORDER BY
     demand_count DESC
 LIMIT 5;
 
--- Key Insights from Skill Analysis:
--- The top 5 in-demand skills for data analysts are SQL, Python, Excel, Tableau, and R. 
--- These skills are essential for data analysts to effectively analyze and visualize data,
--- making them highly sought after in the job market.
+
+/*
+Key Insights from Skill Analysis:
+ -SQL, Excel, Python, and Tableau are the most in-demand skills for Data Analysts working from home.
+ - These skills are essential for data manipulation, analysis, and visualization in remote work settings.
+
+Result:
+[
+  {
+    "skills": "sql",
+    "demand_count": "7291"
+  },
+  {
+    "skills": "excel",
+    "demand_count": "4611"
+  },
+  {
+    "skills": "python",
+    "demand_count": "4330"
+  },
+  {
+    "skills": "tableau",
+    "demand_count": "3745"
+  },
+  {
+    "skills": "power bi",
+    "demand_count": "2609"
+  }
+]
+
+*/
