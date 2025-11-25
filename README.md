@@ -1,7 +1,8 @@
 # Introduction
 
-📊 Enter the field of data jobs! This study, which focuses on data analyst roles, investigates 💰 high-paying occupations, 🔥 in-demand talents, and 📈 where high demand meets high salary in data analytics.
-🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
+Enter the field of data jobs! This study, which focuses on data analyst roles, investigates  high-paying occupations, in-demand talents, and where high demand meets high salary in data analytics.
+
+SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 
 # Background
